@@ -1,0 +1,66 @@
+body {
+    background: #efefef;
+} 
+p {
+    font-size: 18px;    
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.welcome-container h1 {
+    padding: 10px 20px;
+    font-size: 30px;
+}
+
+.welcome {
+    display: flex;
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 30px 60px;
+    background: #ffff;
+    border-radius: 15px;
+} 
+
+.welcome-bg img {
+    border-radius: 10px;
+}
+
+.content, .cnt2-container {
+    display: flex;
+    max-width: 1100px;
+    margin: 40px auto;
+    padding: 55px 0 65px;
+}
+
+.welcome-content {
+    background: #fff;
+
+}
+
+.welcome-content .container {
+    background: #efefef;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.history-of-comp-img img {
+    width: 1000px;
+}
+
+.history-of-comp-img {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.content-3, .content-4{
+    display: flex;
+    max-width: 1100px;
+    margin: 40px auto;
+    padding: 55px 0 65px;
+}
+
+.cnt2-container, .tilte { 
+    background: #ffff;
+    border-radius: 10px;
+    padding: 20px;
+}
